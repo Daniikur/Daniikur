@@ -1,8 +1,7 @@
 ## 👋 Hi, I'm Kurmanzhan!  
-
-- 🔭 I’m currently working on a **Cloud-Based File Storage Project** using **Docker Compose**, **PostgreSQL**, and **pgAdmin**.  
-- 🌱 I’m currently learning **Java Spring Security**, **backend development**, and **Docker**.  
-- 👯 I’m looking to collaborate on **backend and full-stack projects**.  
+ 
+- 🌱 I’m currently learning **Java Spring Security**, **backend development**, and **Docker**, **Python**, **AI**, **Machine Learning**.  
+- 👯 I’m looking to collaborate on **backend and full-stack, AI projects**.  
 - 🤔 I’m looking for help with **optimizing database performance and security best practices**.  
 - 💬 Ask me about **Java, Python, backend development, and cloud environments**.  
 - 📫 How to reach me: **[GitHub](https://github.com/Daniikur) | Email: daniiarbekkyzyk@gmail.com**  
