@@ -107,13 +107,10 @@
 ---
 
 
-## 🧊 💻 Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
-  <img 
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniikur&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=1800"
-  />
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Daniikur&layout=compact&theme=gruvbox&hide_border=true" />
 </p>
 
 <div align="center">
