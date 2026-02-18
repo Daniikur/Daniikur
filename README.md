@@ -106,11 +106,10 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 💻 Most Used Languages
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Daniikur&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniikur&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniikur&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -119,14 +118,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Daniikur&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Daniikur&theme=tokyonight&no-frame=true"/>
 </p>
 
 ---
