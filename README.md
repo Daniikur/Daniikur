@@ -106,18 +106,24 @@
 
 ---
 
-
-## 💻 Most Used Languages
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Daniikur&layout=compact&theme=gruvbox&hide_border=true" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Daniikur&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
-<div align="center">
+<p align="center">
+  <img width="90%" src="https://streak-stats.demolab.com?user=Daniikur&theme=tokyonight&hide_border=true"/>
+</p>
 
-✨ *Languages shaping my engineering journey*
+<p align="center">
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniikur&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Daniikur&theme=tokyonight&no-frame=true"/>
+</p>
+
 ---
 
 ## 🔥 Contribution Streak
