@@ -31,3 +31,128 @@
 Designing intelligent systems ⚡
 Building scalable backends 🚀
 Optimizing performance 🔥
+
+---
+
+# ⚡ Core Focus
+
+```text
+✨ Artificial Intelligence  
+✨ Machine Learning  
+✨ Backend Engineering  
+✨ System Design  
+✨ Security & Optimization
+---
+
+## 🛠 Technical Skills
+
+### 👨‍💻 Programming & Core
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql" />
+</p>
+
+**Algorithms • JSON**
+
+---
+
+### ⚙️ Backend & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,django,react,nextjs" />
+</p>
+
+**Spring Boot • REST API • CI/CD**
+
+---
+
+### 🗄 Databases & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,git,postman,docker,kubernetes" />
+</p>
+
+**SQL • PostgreSQL • MongoDB • Postman**
+
+---
+
+### 🧠 AI / Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+
+**AI • ML • NLP • Deep Learning • RAG • RL**  
+**LangChain • OpenAI • LLM • Generative AI**  
+**Sklearn • Jupyter**
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git" />
+</p>
+
+**Azure • Docker • Kubernetes • Log Analytics**  
+**Network Automation**
+
+---
+
+### 🎨 Frontend & UI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" />
+</p>
+
+**Tailwind CSS • JavaScript • HTML • CSS**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Daniikur&show_icons=true&theme=default&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniikur&layout=compact&theme=default&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Daniikur&theme=default&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Daniikur&theme=flat&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🧠 AI Engineer Mindset
+
+> **“Code is not just written — it is engineered.”**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:daniiarbekkyzyk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨ Philosophy
+
+**Build → Break → Debug → Improve ⚡**
+
+---
+
