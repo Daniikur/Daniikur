@@ -1,36 +1,84 @@
-## 👋 Hi, I'm Kurmanzhan!  
- 
-- 🌱 I’m currently learning **Java Spring Security**, **backend development**, and **Docker**, **Python**, **AI**, **Machine Learning**.  
-- 👯 I’m looking to collaborate on **backend and full-stack, AI projects**.  
-- 🤔 I’m looking for help with **optimizing database performance and security best practices**.  
-- 💬 Ask me about **Java, Python, backend development, and cloud environments**.  
-- 📫 How to reach me: **[GitHub](https://github.com/Daniikur) | Email: daniiarbekkyzyk@gmail.com**  
-- ⚡ Fun fact: **I love solving coding challenges and debugging complex issues!** 🚀  
+<!-- ===== Banner ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Kurmanzhan%20Daniiarbek%20Kyzy&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+---
 
-# Technologies I Use and Learn
+# 👋 Hello, I'm Kurmanzhan Daniiarbek Kyzy
 
-## Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+💻 Computer Science Student  
+🧠 AI & Machine Learning Enthusiast  
+⚙️ Backend Developer  
 
-## Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+---
 
-## Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+## 🚀 Professional Focus
 
+- 🧠 **Artificial Intelligence & Machine Learning**
+- ⚙️ **Backend Development**
+- ☁️ **Cloud & Distributed Systems**
+- 🔐 **Security & Performance Optimization**
 
-## 📊 GitHub Stats
+---
 
-![Kurmanzhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniikur&show_icons=true&theme=tokyonight)
+## 🧠 About Me
 
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniikur&layout=compact&theme=tokyonight)
+I am a Computer Science student passionate about building intelligent systems and scalable backend applications.
+
+I enjoy solving complex problems, designing clean architectures, and continuously learning modern technologies.
+
+🎯 **Career Goal:** Become a Big Tech Engineer (AI / Backend)
+
+---
+
+## ⚡ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,docker,mysql,postgresql,git,linux,js" />
+</p>
+
+---
+
+## 🧪 Areas of Interest
+
+- Artificial Intelligence  
+- Machine Learning  
+- Backend Systems  
+- System Design  
+- Cloud Technologies  
+- Software Security  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Daniikur&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniikur&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Daniikur&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="mailto:danii arbekkyzyk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨ Engineering Mindset
+
+```text
+Build → Break → Learn → Improve 🚀
