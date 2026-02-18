@@ -106,28 +106,6 @@
 
 ---
 
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img width="90%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Daniikur&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=Daniikur&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Daniikur&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Daniikur&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
-
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
