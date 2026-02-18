@@ -118,7 +118,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Daniikur&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Daniikur&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
