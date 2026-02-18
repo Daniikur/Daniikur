@@ -1,9 +1,13 @@
-<!-- ================= CYBERPUNK NEON README ================= -->
+---
 
-<!-- ===== Neon Cyberpunk Banner ===== -->
+## 🐍 Neon Snake Animation
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:ff00cc,100:00f5ff&height=220&section=header&text=Kurmanzhan%20Daniiarbek%20Kyzy&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://raw.githubusercontent.com/Daniikur/Daniikur/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+
+---
+
 
 <!-- ===== Neon Typing Effect ===== -->
 <p align="center">
