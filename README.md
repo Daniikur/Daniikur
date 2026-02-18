@@ -1,18 +1,17 @@
 ---
 
-## 🐍 Neon Snake Animation
+<!-- ================= CYBERPUNK NEON README ================= -->
 
+<!-- ===== Neon Cyberpunk Banner ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daniikur/Daniikur/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:ff00cc,100:00f5ff&height=220&section=header&text=Kurmanzhan%20Daniiarbek%20Kyzy&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
----
-
 
 <!-- ===== Neon Typing Effect ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ff00cc&center=true&vCenter=true&lines=AI+Engineer+in+Progress;Backend+Developer;Cyberpunk+Coder;Future+Big+Tech+Engineer"/>
 </p>
+
 
 ---
 
@@ -26,12 +25,9 @@
 
 ## 🌌 Professional Identity
 
-```text
-⚡ Designing intelligent systems
-🚀 Building scalable backends
-🔥 Optimizing performance
-
----
+⚡ **Designing intelligent systems**  
+🚀 **Building scalable backends**  
+🔥 **Optimizing performance**
 
 ---
 
@@ -44,7 +40,6 @@
 ✨ Security & Optimization  
 
 ---
-
 
 ## 🛠 Technical Skills
 
