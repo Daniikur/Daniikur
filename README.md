@@ -1,142 +1,135 @@
----
-
-<!-- ================= CYBERPUNK NEON README ================= -->
-
-<!-- ===== Neon Cyberpunk Banner ===== -->
+<!-- ===== ELITE HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:ff00cc,100:00f5ff&height=220&section=header&text=Kurmanzhan%20Daniiarbek%20Kyzy&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=200&section=header&text=Kurmanzhan%20Daniiarbek%20Kyzy&fontSize=36&fontColor=E5E7EB&animation=fadeIn"/>
 </p>
 
-<!-- ===== Neon Typing Effect ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff00cc&center=true&vCenter=true&lines=AI+Engineer+in+Progress;Backend+Developer;Cyberpunk+Coder;Future+Big+Tech+Engineer"/>
-</p>
-
-
----
-
-# 👋 Hello World, I'm Kurmanzhan
-
-🧠 **AI / Machine Learning Enthusiast**  
-⚙️ **Backend Developer**  
-☁️ **Cloud & Scalable Systems Learner**
-
----
-
-## 🌌 Professional Identity
-
-⚡ **Designing intelligent systems**  
-🚀 **Building scalable backends**  
-🔥 **Optimizing performance**
-
----
-
-## ⚡ Core Focus
-
-✨ Artificial Intelligence  
-✨ Machine Learning  
-✨ Backend Engineering  
-✨ System Design  
-✨ Security & Optimization  
-
----
-
-## 🛠 Technical Skills
-
-### 👨‍💻 Programming & Core
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql" />
-</p>
-
-**Algorithms • JSON**
-
----
-
-### ⚙️ Backend & Frameworks
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,django,react,nextjs" />
-</p>
-
-**Spring Boot • REST API • CI/CD**
-
----
-
-### 🗄 Databases & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,git,postman,docker,kubernetes" />
-</p>
-
-**SQL • PostgreSQL • MongoDB • Postman**
-
----
-
-### 🧠 AI / Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
-**AI • ML • NLP • Deep Learning • RAG • RL**  
-**LangChain • OpenAI • LLM • Generative AI**  
-**Sklearn • Jupyter**
-
----
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git" />
-</p>
-
-**Azure • Docker • Kubernetes • Log Analytics**  
-**Network Automation**
-
----
-
-### 🎨 Frontend & UI
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" />
-</p>
-
-**Tailwind CSS • JavaScript • HTML • CSS**
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Daniikur&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=6366f1&center=true&vCenter=true&lines=AI+Engineer;Backend+Developer;Distributed+Systems"/>
 </p>
 
 ---
 
-## 🧠 AI Engineer Mindset
+# 👋 Hi, I'm Kurmanzhan
 
-> **“Code is not just written — it is engineered.”**
+**AI Engineer & Backend Developer focused on scalable systems, real-world data, and performance.**
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 Engineering Focus
+
+- AI systems (GNN, NLP, ML pipelines)
+- Backend architecture & API design
+- Distributed systems & scalability
+- Performance optimization
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages:** `Java` `Python` `SQL`  
+**Backend:** `Spring Boot` `FastAPI` `Django`  
+**Databases:** `PostgreSQL` `MongoDB` `Neo4j`  
+**AI/ML:** `PyTorch` `Scikit-learn` `Pandas`  
+**DevOps:** `Docker` `Nginx` `Linux`
+
+---
+
+# 🚀 Featured Projects
+
+## 🚦 Smart Traffic Prediction System
+
+### 🧩 Architecture
+
+```mermaid
+graph TD
+A[OSMnx Road Data] --> B[Graph Processing (NetworkX)]
+B --> C[GNN Model (PyTorch)]
+C --> D[Traffic Prediction Engine]
+D --> E[Dynamic Routing API]
+E --> F[Client Application]
+```
+
+### 🌐 Demo
+👉 (Deploy on Render / Railway and put link here)
+
+### 📈 Engineering Metrics
+- Reduced simulated travel time by ~25%
+- Handled graph with 10k+ nodes
+- Optimized routing recalculation latency
+
+---
+
+## ☁️ Cloud File Storage System
+### 🧩 Architecture
+
+```mermaid
+graph TD
+A[Client] --> B[Spring Boot API]
+B --> C[File Service]
+C --> D[PostgreSQL Metadata]
+B --> E[File Storage]
+E --> F[Docker Container System]
+```
+
+## 🔹 Scalable File Storage
+
+### 🧩 Architecture
+
+```mermaid
+graph TD
+A[Client] --> B[Load Balancer]
+B --> C[Backend Service 1]
+B --> D[Backend Service 2]
+C --> E[Storage Layer]
+D --> E
+E --> F[Metadata Database]
+```
+
+# 🏆 Engineering Achievements
+
+- Built **graph-based AI system (GNN)**
+- Designed **scalable backend architectures**
+- Developed **end-to-end ML pipelines**
+- Hands-on with **real-world datasets**
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:daniiarbekkyzyk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniikur&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniikur&theme=tokyonight&hide_border=true"/>
+</p>
 
-  <a href="https://www.linkedin.com/in/kurmanzhan-daniiarbek-kyzy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+---
+
+# 🧠 Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/4s3Z7GrZge/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
 
 ---
 
-## ✨ Philosophy
+# 🎯 Current Focus
 
-**Build → Break → Debug → Improve ⚡**
+- System Design Interviews
+- Cloud (AWS / GCP)
+- AI in production systems
+- Backend performance optimization
 
 ---
 
+# 🌐 Contact
+
+- 📧 daniiarbekkyzyk@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/kurmanzhan-daniiarbek-kyzy/  
+- 💻 GitHub: https://github.com/Daniikur  
+
+---
+
+# ⚡ Philosophy
+
+> Build systems that scale. Not just code that works.
