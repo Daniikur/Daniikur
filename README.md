@@ -83,66 +83,54 @@
 
 ---
 
-# 🚀 Featured Projects
 
-## 🚦 Smart Traffic Prediction System
+---
 
-```mermaid
-graph TD
-A[OSMnx Road Data] --> B[Graph Processing]
-B --> C[GNN Model]
-C --> D[Traffic Prediction]
-D --> E[Routing API]
-E --> F[Client]
-```
-## ☁️ Cloud File Storage System
+# 🏆 Engineering Achievements
 
-### 🧩 Architecture
+- Built **graph-based AI system (GNN)**
+- Designed **scalable backend architectures**
+- Developed **end-to-end ML pipelines**
+- Hands-on with **real-world datasets**
 
-```mermaid
-graph TD
-A[Client] --> B[Spring Boot API]
-B --> C[File Service]
-C --> D[PostgreSQL Metadata]
-B --> E[File Storage]
-E --> F[Docker Container System]
-```
-## URL Shortener (System Design)
-### 🧩 Architecture
+---
 
-```mermaid
-graph TD
-A[Client] --> B[API Gateway]
-B --> C[URL Service]
-C --> D[Cache (Redis)]
-C --> E[Database]
-D --> C
-```
-## 📦 Scalable File Storage
-### 🧩 Architecture
+# 📊 GitHub Stats
 
-```mermaid
-graph TD
-A[Client] --> B[Load Balancer]
-B --> C[Backend Service 1]
-B --> D[Backend Service 2]
-C --> E[Storage Layer]
-D --> E
-E --> F[Metadata Database]
-```
-### 🚗 Uber-like Ride Matching System
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniikur&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniikur&theme=tokyonight&hide_border=true"/>
+</p>
 
-```mermaid
-graph TD
-A[User App] --> B[API Gateway]
-B --> C[Ride Service]
-B --> D[Driver Service]
+---
 
-C --> E[Matching Engine]
-D --> E
+# 🧠 Problem Solving
 
-E --> F[Real-Time Location (Redis)]
-E --> G[Database]
+<p align="center">
+  <a href="https://leetcode.com/u/4s3Z7GrZge/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p>
 
-F --> E
-```
+---
+
+# 🎯 Current Focus
+
+- System Design Interviews
+- Cloud (AWS / GCP)
+- AI in production systems
+- Backend performance optimization
+
+---
+
+# 🌐 Contact
+
+- 📧 daniiarbekkyzyk@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/kurmanzhan-daniiarbek-kyzy/  
+- 💻 GitHub: https://github.com/Daniikur  
+
+---
+
+# ⚡ Philosophy
+
+> Build systems that scale. Not just code that works.
