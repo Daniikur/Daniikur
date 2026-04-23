@@ -94,3 +94,55 @@ B --> C[GNN Model]
 C --> D[Traffic Prediction]
 D --> E[Routing API]
 E --> F[Client]
+```
+## ☁️ Cloud File Storage System
+
+### 🧩 Architecture
+
+```mermaid
+graph TD
+A[Client] --> B[Spring Boot API]
+B --> C[File Service]
+C --> D[PostgreSQL Metadata]
+B --> E[File Storage]
+E --> F[Docker Container System]
+```
+## URL Shortener (System Design)
+### 🧩 Architecture
+
+```mermaid
+graph TD
+A[Client] --> B[API Gateway]
+B --> C[URL Service]
+C --> D[Cache (Redis)]
+C --> E[Database]
+D --> C
+```
+## 📦 Scalable File Storage
+### 🧩 Architecture
+
+```mermaid
+graph TD
+A[Client] --> B[Load Balancer]
+B --> C[Backend Service 1]
+B --> D[Backend Service 2]
+C --> E[Storage Layer]
+D --> E
+E --> F[Metadata Database]
+```
+### 🚗 Uber-like Ride Matching System
+
+```mermaid
+graph TD
+A[User App] --> B[API Gateway]
+B --> C[Ride Service]
+B --> D[Driver Service]
+
+C --> E[Matching Engine]
+D --> E
+
+E --> F[Real-Time Location (Redis)]
+E --> G[Database]
+
+F --> E
+```
